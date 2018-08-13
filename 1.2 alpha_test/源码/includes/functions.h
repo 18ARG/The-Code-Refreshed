@@ -1,0 +1,12 @@
+void loading(double a);
+void color(int a);
+void printnode(int a);
+void printmap();
+void ansfill();
+void psS();
+void mapfill();
+void printcar(int i);
+void printsitu();
+void cardo(char A);
+void play();
+void calc();
